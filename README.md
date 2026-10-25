@@ -1,3 +1,13 @@
+## Français
+
+Documentation du service Opire. Elle aide à comprendre le produit et à retrouver les instructions d’utilisation ou de contribution.
+
+## English
+
+Documentation for the Opire service. Use it to understand the product and find usage or contribution instructions.
+
+---
+
 ![Opire Logo](./public/big_logo.png)
 
 <p align="center">
